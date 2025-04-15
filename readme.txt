@@ -1,11 +1,11 @@
-It is a free HTML CSS template by https://templatesjungle.com/
-You can use this template as a starter template and start building as you require.
-
-The code is consistent and can be easily maintained as we have followed a good coding standard. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
-
-PRO Version: https://templatesjungle.gumroad.com/l/organic-fruits-vegetable-store-html-template
-
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
+Objectives
+========================================
+Create a server application with Node and Express.
+Create a RESTful API using Express.
+Create Express middleware.
+Use Express middleware.
+Use a template engine to render views with Express.
+Interact with a self-made API through HTML forms.
 
 This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
 
@@ -61,8 +61,6 @@ https://getbootstrap.com/
 JQuery Plugins
 
 Swiper Slider - https://swiperjs.com/
-Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
-Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
 
 Thanks for downloading from TemplatesJungle.com !
 
