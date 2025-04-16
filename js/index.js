@@ -84,6 +84,7 @@ async function loadPopularProducts() {
       (product) => product.reviews > 100
     );
     console.log(filteredProducts);
+    console.log(filteredProducts);
     const swiperWrapper = document.getElementById("popular-products");
     swiperWrapper.innerHTML = ""; // Clear previous content
 
